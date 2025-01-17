@@ -1,5 +1,4 @@
 
-```markdown
 # Calculadora con Graficación
 
 Esta es una calculadora interactiva construida con Python utilizando la biblioteca `tkinter` para la interfaz gráfica y `matplotlib` para la graficación de datos. La calculadora es capaz de realizar operaciones matemáticas básicas (suma, resta, multiplicación, división), eliminar caracteres, limpiar la pantalla y graficar puntos en un gráfico.
@@ -21,9 +20,9 @@ Asegúrate de tener instaladas las siguientes bibliotecas de Python:
 
 Puedes instalar `matplotlib` usando el siguiente comando:
 
-```bash
+
 pip install matplotlib
-```
+
 
 `tkinter` generalmente está incluido en las distribuciones estándar de Python, por lo que no debería ser necesario instalarlo por separado.
 
